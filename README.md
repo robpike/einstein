@@ -1,6 +1,6 @@
 # Einstein
 
-To install: `go get robpike.io/cmd/einstein`.
+To install: `go install robpike.io/cmd/einstein@latest`.
 
 
 This is a simple program to print an STL representation of the "einstein hat"
